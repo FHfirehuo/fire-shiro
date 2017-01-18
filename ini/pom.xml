@@ -6,7 +6,9 @@
 		<artifactId>shiro</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
 	</parent>
-	<artifactId>authentication</artifactId>
-	<description>验证</description>
+	<artifactId>ini</artifactId>
+	<description>ini 配置</description>
+	<dependencies>
+
+	</dependencies>
 </project>
-l

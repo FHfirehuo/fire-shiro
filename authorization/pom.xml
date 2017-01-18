@@ -8,6 +8,7 @@
 	</parent>
 	<artifactId>authorization</artifactId>
 	<packaging>war</packaging>
+	<description>授权</description>
 
 	<build>
 		<plugins>
