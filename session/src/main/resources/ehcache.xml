@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cache name="shiro-activeSessionCache" maxEntriesLocalHeap="10000"
+	overflowToDisk="false" eternal="false" diskPersistent="false"
+	timeToLiveSeconds="0" timeToIdleSeconds="0" statistics="true" />
+	
+	<!-- Cache的名字为shiro-activeSessionCache，即设置的sessionDAO的activeSessionsCacheName属性值。 -->

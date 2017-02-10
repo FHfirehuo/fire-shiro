@@ -10,6 +10,7 @@
 		<module>authorization</module>
 		<module>ini</module>
 		<module>encryption</module>
+		<module>session</module>
 	</modules>
 
 	<description>各种shiro例子</description>
